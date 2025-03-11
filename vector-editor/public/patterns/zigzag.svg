@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <pattern id="zigzag" patternUnits="userSpaceOnUse" width="16" height="8">
+      <path d="M0,0 L4,4 L8,0 L12,4 L16,0 M0,8 L4,4 L8,8 L12,4 L16,8" fill="none" stroke="black" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="64" height="64" fill="url(#zigzag)" />
+</svg> 
